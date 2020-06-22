@@ -1,1 +1,1 @@
-py hypercamWatermark.pyc
+py hypercamWatermark.pyw
